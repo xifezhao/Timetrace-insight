@@ -105,4 +105,4 @@ The original dataset is publicly available and cited as:
 ```
 All data used in this case study have been anonymized and utilized under the data usage guidelines provided by the source.
 
-
+![Csae 5](summary_case_5.pdf "Csae 5")
