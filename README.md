@@ -91,4 +91,18 @@ This repository contains the Python implementation used for the case study analy
 
 ## Case Study Data
 
-The example `clinical_data.csv` and `lab_data.csv` files used in this repository are [**Describe the data: e.g., "simulated to represent typical perioperative scenarios" or "a subset of a publicly available dataset XYZ, preprocessed for this study" or "anonymized data from institution ABC under ethical approval XYZ"**]. The focus is on longitudinal Hemoglobin (HB) and Glucose (GLUC) measurements.
+The example clinical_data.csv and lab_data.csv files used in this repository are preprocessed subsets derived from the VitalDB database, a high-fidelity multi-parameter vital signs database collected from surgical patients. These data have been curated to represent typical perioperative clinical scenarios, with a particular focus on longitudinal measurements of Hemoglobin (HB) and Glucose (GLUC).
+
+The original dataset is publicly available and cited as:
+
+@misc{BibEntry2025May,
+  title = {{VitalDB, a high-fidelity multi-parameter vital signs database in surgical patients v1.0.0}},
+  year = {2025},
+  month = may,
+  note = {[Online; accessed 13. May 2025]},
+  url = {https://physionet.org/content/vitaldb/1.0.0}
+}
+
+All data used in this case study have been anonymized and utilized under the data usage guidelines provided by the source.
+
+
